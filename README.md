@@ -241,4 +241,4 @@ code .
 ---
 
 ### LinkedIn Profile Link
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/ln.jpg?raw=true" alt="LinkedIn Profile Link" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/ln.jpg?raw=true" alt="LinkedIn Profile Link" width="400"/>
