@@ -1,0 +1,19 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files  
+*.tmp
+*.log
+*.swp
+
+# Editor Files
+.vscode/
+.idea/
+.sublime-
+
+# OS Generated Files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
