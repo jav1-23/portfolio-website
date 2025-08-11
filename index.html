@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shodhan Kumar Shetty - Portfolio</title>
+    <meta name="description" content="Shodhan Kumar Shetty - Aspiring Web Developer and CSE Undergraduate Student Portfolio">
+    <meta name="keywords" content="Shodhan Kumar Shetty, Web Developer, Computer Science, Portfolio, Java, Python">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header class="header">
+        <div class="container">
+            <div class="header__content">
+                <div class="header__brand">
+                    <h1 class="header__name">Shodhan Kumar Shetty</h1>
+                    <p class="header__tagline">Aspiring Web Developer | CSE Undergraduate Student</p>
+                </div>
+                <nav class="nav">
+                    <ul class="nav__list">
+                        <li class="nav__item">
+                            <a href="#" class="nav__link active" data-page="home">Home</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="#" class="nav__link" data-page="projects">Projects</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="#" class="nav__link" data-page="resume">Resume</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="#" class="nav__link" data-page="contact">Contact</a>
+                        </li>
+                    </ul>
+                    <!-- Add this inside your nav section, after the nav__list -->
+
+
+                    <button class="nav__toggle" aria-label="Toggle navigation">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Home Page -->
+        <section id="home" class="page page--active">
+            <!-- Hero Section -->
+           <h2 class="hero__title">Building Tomorrow's Web Solutions</h2>
+
+            <!-- About Section -->
+            <section class="about">
+                <div class="container">
+                    <div class="about__content">
+                        <div class="about__image-container">
+    <img src="images/profile.jpg" alt="Shodhan Kumar Shetty" class="about__image">
+</div>
+
+                        <div class="about__text">
+                            <h3 class="about__title">About Me</h3>
+                            <p class="about__bio">Java Programming | Web Developments | Skilled in C, C++, Python | Exploring Machine Learning | Working with PostgreSQL & DBMS | Passionate about Scalable Tech Solutions.</p>
+                            <p class="about__position">Computer Science Student at Alvas Institute of Engineering and Technology, Mijar</p>
+                            <a href="#" class="btn btn--primary" data-page="projects">View My Projects</a>
+                            <a href="#" class="btn btn--outline" data-page="contact">Get In Touch</a>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Skills Section -->
+            <section class="skills">
+                <div class="container">
+                    <h3 class="skills__title">Technical Skills</h3>
+                    <div class="skills__grid">
+                        <div class="skill-category">
+                            <h4>Programming Languages</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Java</span>
+                                <span class="skill-tag">C</span>
+                                <span class="skill-tag">C++</span>
+                                <span class="skill-tag">Python</span>
+                                <span class="skill-tag">JavaScript</span>
+                            </div>
+                        </div>
+                        <div class="skill-category">
+                            <h4>Web Technologies</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">HTML5</span>
+                                <span class="skill-tag">CSS3</span>
+                                <span class="skill-tag">React.js</span>
+                            </div>
+                        </div>
+                        <div class="skill-category">
+                            <h4>Databases & Tools</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">MySQL</span>
+                                <span class="skill-tag">PostgreSQL</span>
+                                <span class="skill-tag">MongoDB</span>
+                                <span class="skill-tag">Git</span>
+                                <span class="skill-tag">VS Code</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        <!-- Projects Page -->
+        <section id="projects" class="page">
+            <div class="container">
+                <div class="page__header">
+                    <h2 class="page__title">My Projects</h2>
+                    <p class="page__description">A showcase of my recent development work and technical achievements</p>
+                </div>
+                
+                <div class="projects__grid">
+                    <div class="project-card">
+                        <div class="project-card__content">
+                            <h3 class="project-card__title">HelloEveryone</h3>
+                            <p class="project-card__description">A web development project showcasing modern design principles and responsive layout techniques</p>
+                            <div class="project-card__tech">
+                                <span class="tech-tag">HTML</span>
+                                <span class="tech-tag">CSS</span>
+                                <span class="tech-tag">JavaScript</span>
+                            </div>
+                        </div>
+                        <div class="project-card__actions">
+                            <a href="https://github.com/shodhanshetty12/HelloEveryone" target="_blank" class="btn btn--sm btn--primary">View on GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="project-card">
+                        <div class="project-card__content">
+                            <h3 class="project-card__title">Student Mark Management System</h3>
+                            <p class="project-card__description">Full-stack Java web application using MVC design pattern, JDBC prepared statements, and secure authentication with server-side validation</p>
+                            <div class="project-card__tech">
+                                <span class="tech-tag">Java</span>
+                                <span class="tech-tag">JDBC</span>
+                                <span class="tech-tag">HTML</span>
+                                <span class="tech-tag">CSS</span>
+                                <span class="tech-tag">SQL</span>
+                            </div>
+                        </div>
+                        <div class="project-card__actions">
+                            <a href="https://github.com/shodhanshetty12/Mark_ManagementSystematRun" target="_blank" class="btn btn--sm btn--primary">View on GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="project-card">
+                        <div class="project-card__content">
+                            <h3 class="project-card__title">Dice Roller</h3>
+                            <p class="project-card__description">Interactive dice rolling application with clean user interface and smooth animations</p>
+                            <div class="project-card__tech">
+                                <span class="tech-tag">JavaScript</span>
+                                <span class="tech-tag">HTML</span>
+                                <span class="tech-tag">CSS</span>
+                            </div>
+                        </div>
+                        <div class="project-card__actions">
+                            <a href="https://github.com/shodhanshetty12/Dice-Roller" target="_blank" class="btn btn--sm btn--primary">View on GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="project-card">
+                        <div class="project-card__content">
+                            <h3 class="project-card__title">Tic Tac Toe Game</h3>
+                            <p class="project-card__description">Classic game implementation with responsive design and interactive gameplay features</p>
+                            <div class="project-card__tech">
+                                <span class="tech-tag">JavaScript</span>
+                                <span class="tech-tag">HTML</span>
+                                <span class="tech-tag">CSS</span>
+                            </div>
+                        </div>
+                        <div class="project-card__actions">
+                            <a href="https://github.com/shodhanshetty12/tic-tac-toe" target="_blank" class="btn btn--sm btn--primary">View on GitHub</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+  <!-- Resume Page -->
+<section id="resume" class="page">
+    <div class="container">
+        <div class="page__header">
+            <h2 class="page__title">My Resume</h2>
+            <p class="page__description">Here is my professional resume with all my qualifications and experience</p>
+        </div>
+
+        <div class="resume__content">
+            <!-- Simple Description -->
+            <div class="resume__intro">
+                <h3>📄 Professional Resume</h3>
+                <p>Below you can view my complete resume or download it as a PDF file. It contains detailed information about my education, skills, projects, and achievements.</p>
+                
+                <!-- Download Button -->
+                <div class="resume__download">
+                    <button class="btn btn--primary btn--lg" id="downloadResumeBtn">
+                        📥 Download Resume PDF
+                    </button>
+                </div>
+            </div>
+
+            <!-- PDF Display -->
+            <div class="resume__pdf-display">
+                <iframe id="resumeIframe" 
+                        src="doc/resume.pdf" 
+                        width="100%" 
+                        height="800px"
+                        style="border: 2px solid var(--color-primary); border-radius: var(--radius-lg);">
+                    <p>Your browser does not support PDFs. 
+                       <a href="doc/resume.pdf" target="_blank">Click here to view the PDF</a>
+                    </p>
+                </iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+               
+
+        <!-- Contact Page -->
+        <section id="contact" class="page">
+            <div class="container">
+                <div class="page__header">
+                    <h2 class="page__title">Get In Touch</h2>
+                    <p class="page__description">Let's connect and discuss opportunities</p>
+                </div>
+
+                <div class="contact__content">
+                    <div class="contact__info">
+                        <div class="contact-item">
+                            <h3>Email</h3>
+                           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=4al22cs150@aiet.org.in" 
+   target="_blank" class="contact-link">4al22cs150@aiet.org.in</a>
+
+                        </div>
+                        
+                        <div class="contact-item">
+                            <h3>Phone</h3>
+                            <a href="tel:+917204211400" class="contact-link">+91 7204211400</a>
+                        </div>
+                        
+                        <div class="contact-item">
+                            <h3>LinkedIn</h3>
+                            <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252" target="_blank" class="contact-link">Connect with me on LinkedIn</a>
+                        </div>
+                        
+                        <div class="contact-item">
+                            <h3>GitHub</h3>
+                            <a href="https://github.com/shodhanshetty12" target="_blank" class="contact-link">View my GitHub profile</a>
+                        </div>
+                    </div>
+
+                    <div class="social-links">
+                        <h3>Follow Me</h3>
+                        <div class="social-grid">
+                            <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252" target="_blank" class="social-link">
+                                <span>LinkedIn</span>
+                            </a>
+                            <a href="https://github.com/shodhanshetty12" target="_blank" class="social-link">
+                                <span>GitHub</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__content">
+                <p class="footer__copyright">&copy; 2025 Shodhan Kumar Shetty. All rights reserved.</p>
+                <div class="footer__links">
+                    <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/shodhanshetty12" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
