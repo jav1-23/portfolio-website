@@ -181,65 +181,64 @@ code .
 ## Portfolio Website Screenshots
 
 ### Home Page
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/home.jpg?raw=true" alt="Home Page" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/home.jpg?raw=true" alt="Home Page" width="700"/>
 
 ---
 
 ### Projects Section (via 'View My Project' Button)
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/viewproj.jpg?raw=true" alt="Projects Section Link from Home" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/viewproj.jpg?raw=true" alt="Projects Section Link from Home" width="700"/>
 
 ---
 
-### Contact Section (via 'Get Touch' Button)
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/gettouch.jpg?raw=true" alt="Contact Section Link from Home" width="700"/>
+### Contact Section (via 'Get in Touch' Button)
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/gettouch.jpg?raw=true" alt="Contact Section Link from Home" width="700"/>
 
 ---
 
 ### Projects Section
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/proj.jpg?raw=true" alt="Projects Section" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/proj.jpg?raw=true" alt="Projects Section" width="700"/>
 
 ---
 
 ### Project GitHub Link
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/projgit.jpg?raw=true" alt="View Project on GitHub" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/projgit.jpg?raw=true" alt="View Project on GitHub" width="700"/>
 
 ---
 
 ### Resume Section
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/res.jpg?raw=true" alt="Resume Section" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/res.jpg?raw=true" alt="Resume Section" width="700"/>
 
 ---
 
 ### Download Resume
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/resdow.jpg?raw=true" alt="Download Resume" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdow.jpg?raw=true" alt="Download Resume" width="700"/>
 
 ---
 
 ### Select Path for Download
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/resdowpath.jpg?raw=true" alt="Select Path for Download" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdowpath.jpg?raw=true" alt="Select Path for Download" width="700"/>
 
 ---
 
 ### Download Complete
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/resdowdone.jpg?raw=true" alt="Download Complete" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdowdone.jpg?raw=true" alt="Download Complete" width="700"/>
 
 ---
 
 ### Contact Section
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/cont.jpg?raw=true" alt="Contact Section" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/cont.jpg?raw=true" alt="Contact Section" width="700"/>
 
 ---
 
 ### Email Link
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/mail.jpg?raw=true" alt="Email Link" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/mail.jpg?raw=true" alt="Email Link" width="700"/>
 
 ---
 
 ### GitHub Profile Link
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/git.jpg?raw=true" alt="GitHub Profile Link" width="700"/>
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/git.jpg?raw=true" alt="GitHub Profile Link" width="700"/>
 
 ---
 
 ### LinkedIn Profile Link
-<img src="https://github.com/shodhanshetty12/CODSOFT/blob/main/images/lin.jpg?raw=true" alt="LinkedIn Profile Link" width="700"/>
-
+<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/lin.jpg?raw=true" alt="LinkedIn Profile Link" width="700"/>
